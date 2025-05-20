@@ -1,8 +1,17 @@
-I'm Epim3dium and this is my personal, anonymous account made for practicing my git skills.
-I am a big fan of simulations/game dev and hence most of my projects are written in c++. 
-If you have found me then i am surprised, because i am sure i will not be very vocal or public about my projects.
+# 👋 Hi there!
 
-<!---
-Epim3dium/Epim3dium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm passionate about writing **performant**, **clean**, and **low-level** code. My interests span across:
+
+- ⚙️ **Low-Level Optimizations** – squeezing every bit of performance out of hardware gives me a lot of satisfaction
+- 🕒 **Real-Time Simulations** – creating systems that react instantly and allow for real time interactions
+- 🖥️ **Graphics Programming** – rendering pipelines and GPU-CPU work distribution
+- 💡 **Efficient Algorithms** – designing clever solutions that scale and perform
+
+I enjoy building things that are fast, elegant under the hood, and a joy to interact with.  
+If it involves memory layouts, cache optimization, frame timing, or render loops — I'm all in.
+
+<!-- You can add pinned projects below or contact info if you want -->
+
+## 🔧 Technologies & Tools
+C++ | GLSL | Vulkan | ECS | Custom Engines
+
